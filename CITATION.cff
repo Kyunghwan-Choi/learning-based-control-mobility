@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the released version of this textbook. This draft does not yet have a DOI."
+title: "Learning-Based Control for Mobility Systems: Approximate Dynamic Programming, Reinforcement Learning, and Online Lookahead"
+type: book
+authors:
+  - family-names: "Choi"
+    given-names: "Kyunghwan"
+    affiliation: "Korea Advanced Institute of Science and Technology"
+version: "0.6.2-draft"
+date-released: "2026-07-16"
+url: "https://kyunghwan-choi.github.io/learning-based-control-mobility/"
+repository-artifact: "https://github.com/Kyunghwan-Choi/learning-based-control-mobility"
