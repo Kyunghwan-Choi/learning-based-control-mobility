@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.7.0-draft — 2026-08-31
+
+- Began cumulative chapter-by-chapter publication for the Fall 2026 course.
+- Published Chapter 1, *From Mobility Systems to Learning-Based Control*.
+- Withheld Chapters 2–11 from the public PDF until their corresponding course
+  units are taught and reviewed.
+
 ## 0.6.2-draft — 2026-07-16
 
 - Rewrote the preface around the book's central progression from exact and
