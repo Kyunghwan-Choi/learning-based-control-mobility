@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.8.0-draft — 2026-09-07
+
+- Changed the course-release layout from one cumulative PDF to separately
+  downloadable reviewed teaching units.
+- Preserved the existing Chapter 1 PDF and its stable URL.
+- Published Chapter 2, Part I, covering Sections 2.1–2.5: finite-horizon exact
+  and approximate DP and the HEV energy-management case study.
+- Added independent Chapter 1 and Chapter 2 cards to the landing page.
+
 ## 0.7.0-draft — 2026-08-31
 
 - Began cumulative chapter-by-chapter publication for the Fall 2026 course.
