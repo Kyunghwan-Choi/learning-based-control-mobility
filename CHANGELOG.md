@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.9.0-draft — 2026-09-12
+
+- Published Chapter 2, Part II, covering Sections 2.6–2.11: stationary
+  infinite-horizon problems, exact and approximate VI/PI, the finite-to-
+  infinite-horizon reformulation, and the slalom-tracking study.
+- Retained the versioned Chapter 2, Part I PDF and URL for students who already
+  downloaded Sections 2.1–2.5.
+- Rechecked the exact-DP statements and the slalom numerical audit, and refined
+  figure, table, and summary placement in the released pages.
+
 ## 0.8.0-draft — 2026-09-07
 
 - Changed the course-release layout from one cumulative PDF to separately

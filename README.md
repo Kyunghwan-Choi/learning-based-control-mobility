@@ -9,10 +9,11 @@ separate PDF as it is taught; the complete manuscript remains under revision.
 
 ## Current draft
 
-- Public collection version: `0.8.0-draft`
-- Latest update: 2026-09-07
+- Public collection version: `0.9.0-draft`
+- Latest update: 2026-09-12
 - [Chapter 1 — From Mobility Systems to Learning-Based Control](https://kyunghwan-choi.github.io/learning-based-control-mobility/learning-based-control-mobility-v0.7.0-draft.pdf) (27 pages)
 - [Chapter 2, Part I — Exact and Approximate Dynamic Programming](https://kyunghwan-choi.github.io/learning-based-control-mobility/learning-based-control-mobility-ch02-part1-v0.8.0-draft.pdf) (Sections 2.1–2.5; 30 pages)
+- [Chapter 2, Part II — Exact and Approximate Dynamic Programming](https://kyunghwan-choi.github.io/learning-based-control-mobility/learning-based-control-mobility-ch02-part2-v0.9.0-draft.pdf) (Sections 2.6–2.11; 31 pages)
 - [Open the textbook landing page](https://kyunghwan-choi.github.io/learning-based-control-mobility/)
 
 The manuscript is an evolving working draft. Content, notation, chapter
@@ -27,7 +28,7 @@ a DOI is assigned, cite the public collection version and URL explicitly:
 
 > Kyunghwan Choi, *Learning-Based Control for Mobility Systems: Approximate
 > Dynamic Programming, Reinforcement Learning, and Online Lookahead*, working
-> draft 0.8.0-draft, 2026.
+> draft 0.9.0-draft, 2026.
 
 BibTeX is also available at [`docs/citation.bib`](docs/citation.bib).
 
