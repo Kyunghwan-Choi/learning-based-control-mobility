@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.10.0-draft — 2026-09-21
+
+- Published Chapter 3, covering fixed-feature and neural parametric
+  approximation, training and validation, regularization, and structured
+  representations.
+- Included the reproducible car-following cost-surrogate study with separate
+  prediction, action-agreement, and one-step decision-regret metrics.
+- Clarified the standard ridge objective used by the fixed-feature models and
+  aligned the learning objectives and summary with the reviewed chapter.
+
 ## 0.9.0-draft — 2026-09-12
 
 - Published Chapter 2, Part II, covering Sections 2.6–2.11: stationary
