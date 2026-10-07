@@ -6,8 +6,8 @@ authors:
   - family-names: "Choi"
     given-names: "Kyunghwan"
     affiliation: "Korea Advanced Institute of Science and Technology"
-version: "0.10.0-draft"
-date-released: "2026-09-21"
+version: "0.11.0-draft"
+date-released: "2026-10-08"
 url: "https://kyunghwan-choi.github.io/learning-based-control-mobility/"
 repository-artifact: "https://github.com/Kyunghwan-Choi/learning-based-control-mobility"
 preferred-citation:
@@ -16,6 +16,6 @@ preferred-citation:
   authors:
     - family-names: "Choi"
       given-names: "Kyunghwan"
-  version: "0.10.0-draft"
+  version: "0.11.0-draft"
   year: 2026
   url: "https://kyunghwan-choi.github.io/learning-based-control-mobility/"

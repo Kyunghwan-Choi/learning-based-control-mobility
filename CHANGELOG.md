@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.11.0-draft — 2026-10-08
+
+- Published Chapter 4, *Approximation in Value Space*, as a separate PDF;
+  retained all earlier chapter PDFs and their versioned download URLs.
+- Connected fitted VI, Q-learning and DQN variants, approximate PI, and
+  MC/TD, LSTD/LSPE, and SARSA through their evaluation and improvement roles.
+- Expanded online lookahead, pure and truncated rollout, and the
+  linear-programming view of value approximation.
+- Included a common lane-keeping study comparing approximation accuracy,
+  policy cost, sampling budgets, and online improvement with frozen
+  offline evaluators. Sampled methods use 30 seeds and 250 length-100
+  sampling episodes per evaluation or training round.
+- Updated landing-page and citation metadata. This release distributes the
+  compiled chapter and metadata only, not the LaTeX or experiment source.
+
 ## 0.10.0-draft — 2026-09-21
 
 - Published Chapter 3, covering fixed-feature and neural parametric
