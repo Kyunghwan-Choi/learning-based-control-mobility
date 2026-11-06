@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.12.0-draft — 2026-11-07
+
+- Published Chapter 5, *LQR and MPC Through the DP Lens*, as a separate
+  43-page PDF including its cited references. Earlier chapter PDFs and
+  their versioned download URLs are unchanged.
+- Connected backward DP, VI, and PI to Riccati updates and Lyapunov policy
+  evaluation, distinguishing terminal cost-to-go from achieved policy cost.
+- Developed the geometry of policy improvement, multistep lookahead, and
+  truncated rollout, with exact finite-state and scalar LQR examples.
+- Included the vehicle-control comparison of terminal approximations and
+  constrained MPC, with explicit modeling and terminal-condition assumptions.
+- Rechecked the chapter's mathematical identities, numerical examples,
+  diagrams, and public PDF references. Added the Chapter 5 download card and
+  updated collection citation metadata; source and experiment files remain
+  outside this public distribution.
+
 ## 0.11.0-draft — 2026-10-08
 
 - Published Chapter 4, *Approximation in Value Space*, as a separate PDF;
