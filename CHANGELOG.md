@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.13.0-draft — 2026-11-19
+
+- Published Chapter 6, Part I, *Approximation in Policy Space*, covering
+  Sections 6.1–6.4 in a separate 32-page PDF including its cited references.
+  Section 6.5 onward remains outside this release.
+- Included policy fitting, derivative-free policy search, stochastic and
+  deterministic policy gradients, performance difference, and actor–critic
+  learning through GAE and off-policy evaluation.
+- Retained chapter-wide learning objectives, the roadmap, and numbered
+  previews of later sections. Cross-references outside this PDF retain
+  their numbers without links to unavailable destinations.
+- Added a separate Chapter 6 Part I download card and updated collection
+  citation metadata. Earlier chapter PDFs and their URLs are unchanged.
+- Distribution contains only the compiled PDF and public metadata; the
+  complete manuscript, LaTeX, experiments, and editorial notes remain private.
+
 ## 0.12.0-draft — 2026-11-07
 
 - Published Chapter 5, *LQR and MPC Through the DP Lens*, as a separate
