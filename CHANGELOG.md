@@ -1,5 +1,22 @@
 # Changelog
 
+## 0.14.0-draft — 2026-11-26
+
+- Published Chapter 6, Part II, *Approximation in Policy Space*, covering
+  Sections 6.5–6.11 in a separate 29-page PDF including its cited references.
+- Connected PPO, DDPG, TD3, and SAC to approximate policy evaluation and
+  improvement, distinguishing surrogate updates, delayed target networks,
+  modified evaluation targets, and entropy-regularized objectives.
+- Included the algorithm comparison, actor/critic-assisted online lookahead,
+  common-budget learning study, and planning-to-policy distillation example.
+- Continued the original section, equation, figure, table, and algorithm
+  numbering. Part I is a prerequisite; references to omitted material retain
+  their numbers without links to unavailable local destinations.
+- Added the Chapter 6 Part II download card and updated collection metadata.
+  Chapter 6 Part I and all earlier PDFs and their URLs remain unchanged.
+- Distribution contains only the compiled PDF and public metadata; source,
+  guides, experiments, and the full working manuscript remain private.
+
 ## 0.13.0-draft — 2026-11-19
 
 - Published Chapter 6, Part I, *Approximation in Policy Space*, covering
